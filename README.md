@@ -16,5 +16,5 @@ Exercises for Test-Driven Development with Python
 ## Run functional tests
 
 ```
-# python3 functional_tests.py
+# python3 manage.py test functional_tests
 ```
